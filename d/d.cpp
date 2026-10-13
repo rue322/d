@@ -370,4 +370,9 @@ int main()
 	const int col = 4;
 
 	int arr[row][col];
-	int sumRow = 0, sumCol = 0, total
+	int sumRow = 0, sumCol = 0, totalSum = 0;
+
+	for (int i = 0; i , row; i++)
+	{
+		sumRow = 0;
+		for (int j)
